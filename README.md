@@ -3,6 +3,8 @@ Heart Attack Risk Prediction Project
 Introduction:
 The Heart Attack Risk Prediction project aims to leverage the Heart Attack Risk Prediction Dataset to develop models capable of predicting the likelihood of a heart attack based on various health attributes. The dataset encompasses diverse features such as age, cholesterol levels, blood pressure, smoking habits, exercise patterns, and dietary preferences. The goal is to contribute to proactive strategies for heart disease prevention and management.
 
+DATASET LINK: https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset
+
 The dataset consisted of:-
 
 Dataset Glossary (Column-wise)
